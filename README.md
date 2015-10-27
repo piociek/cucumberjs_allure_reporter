@@ -2,7 +2,7 @@
 
 ## HOW TO USE IT?
 
-Add `reporter.js` file in features packaged with:
+Add `reporter.js` file in feature packages with:
 
 ```js
 var reporter = require('cucumberjs-allure-reporter');
